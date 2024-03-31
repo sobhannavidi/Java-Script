@@ -1,6 +1,5 @@
-let person = {
-    name : 'sobhan',
-    age : 17,
-    admin : true
-}
-console.log (person)
+let users = [ 'sobhan', 'danial'];
+users[2] = 17;
+users[3] = true;
+console.log (users)
+console.log (users.length)
