@@ -1,4 +1,6 @@
-let name = 'sobhan';
-let age = '17';
-let admin = 'true';
-console.log(name, age, admin);
+let person = {
+    name : 'sobhan',
+    age : 17,
+    admin : true
+}
+console.log (person)
