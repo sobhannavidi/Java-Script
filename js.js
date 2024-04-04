@@ -1,4 +1,5 @@
-function sobi(name, age){
-    console.log(name + ' is the best and he is ' + age);
+function sobi(number){
+    return number + number;
 }
-sobi('Sobahn',17);
+let show = sobi(4);
+console.log(show);
