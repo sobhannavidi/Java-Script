@@ -1,5 +1,4 @@
-let users = [ 'sobhan', 'danial'];
-users[2] = 17;
-users[3] = true;
-console.log (users)
-console.log (users.length)
+function sobi(name, age){
+    console.log(name + ' is the best and he is ' + age);
+}
+sobi('Sobahn',17);
